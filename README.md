@@ -1,7 +1,7 @@
-# Page HTML coding and functionality of the Shop
+# Shop page with active basket
 
 ## Project view page
-https://olhakobylianskaalex.github.io/ShopBasketJS-template/
+https://olhakobylianskaalex.github.io/shop-basket/
 
 ## To start: 
 npm install 
